@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# 간략 자기소개(내가 누구인지, 기술스택, 내가 진행한 프로젝트를 소개, 자격증이나 수상 기타활동)
+
 <!--
 **Ape07Park/Ape07Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
