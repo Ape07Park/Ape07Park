@@ -26,6 +26,4 @@ Junior web front-end developer.
 
 -->
 
-### 📫  How to reach me
-[![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pkiopb@gmail.com)](mailto:pkiopb@gmail.com) : pkiopb@gmail.com
--->
+
